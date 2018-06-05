@@ -38,4 +38,5 @@ Input parameters:
 
 **Note: In order to run the demo program, you can simply run the script Logo_Recognition_Demo.m without any parameters.**
 
+### Sample Output:
 ![logo detection cv](https://user-images.githubusercontent.com/24943921/40948127-88b76312-6834-11e8-9e2f-607c440ccc28.png)
